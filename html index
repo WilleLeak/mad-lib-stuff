@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+		<link rel="stylesheet" type= "text/css" href="src/styles.css">
+	<title>Mad Lib</title>
+	<meta charset="UTF-8" />
+</head>
+
+<body>
+
+<h1> Mad Lib </h1>
+<p> words  </p>
+
+
+<form>
+		<label for="pluralN"> Plural Noun </label>
+<input type = "text" id = "pluralN">
+<br> <br>
+<label for="adj"> Adjective  </label>
+<input type = "text" id = "adj">
+<br> <br>
+<label for="color"> Color </label>
+<input type = "text" id = "color">
+<br> <br>
+<input type = "submit" id = "submit">
+</form>
+
+
+
+</body>
+</html>
